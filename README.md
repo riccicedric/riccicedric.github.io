@@ -7,6 +7,10 @@ Cédric Ricci GitHub projects homepage
     </a>
 </p>
 
+
+
+
+
 <h1 align="center">foot.css</h1>
 
 <p align="center">Small footprint CSS framework</p>
@@ -15,6 +19,3 @@ Cédric Ricci GitHub projects homepage
     <img src="https://img.shields.io/github/size/riccicedric/foot-css/dist/foot.min.css?style=flat-square">
     <img src="https://img.shields.io/github/license/riccicedric/foot-css?style=flat-square">
 </p>
-
-# foot.css
-Minimalist CSS framework, easy to use and extend, foot.css help you start your website & app project on the right foot :)
